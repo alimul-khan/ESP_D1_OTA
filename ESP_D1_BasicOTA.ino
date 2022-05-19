@@ -5,8 +5,8 @@
 
 #ifndef STASSID
 
-#define STASSID "Doppl_Private"
-#define STAPSK  "doppldoppl"
+#define STASSID "Find_it"
+#define STAPSK  "don't_tell_it"
 #endif
 
 const char* ssid = STASSID;
