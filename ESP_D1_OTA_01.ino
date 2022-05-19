@@ -11,8 +11,8 @@
 
 // Replace with your network credentials
 
-const char* ssid = "Doppl_Private";
-const char* password = "doppldoppl";
+const char* ssid = "Find_it";
+const char* password = "don't_tell_it";
 
 const int ESP_BUILTIN_LED = 2;
 
