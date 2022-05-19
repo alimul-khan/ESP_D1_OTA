@@ -2,7 +2,7 @@
 
 1. Step 1: Connect the ESP unit with your computer.
 2. Step 2: Select appropriate board and port
-3. Step 3: File >> Examples >> ArduinoOTA >> BasicOTA
+3. Step 3: File >> Examples >> ArduinoOTA >> BasicOTA ![Image](basicOTA.png)
 4. Step 4: Edit wifi credential and upload it
 5. Step 5: TO confirm that the device is working properly, open terminal with proper baud rate and see the IP address is there.
 6. Step 6: Also see the both ports physical and wifi port.
